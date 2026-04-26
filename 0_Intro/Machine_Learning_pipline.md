@@ -11,7 +11,7 @@
 
     - Gather raw data from sources like:
         - Databases
-        - APIs
+        - APIs 
         - CSV / Excel files
         - Sensors
         - Web scraping
